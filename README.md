@@ -9,6 +9,8 @@
 edgetpu_compiler -h
 ```
 
+[pycoral](https://github.com/google-coral/pycoral)
+
 ## mdt
 
 [Directions on how to use the mdt tool](https://coral.ai/docs/dev-board/mdt/#install-mdt)

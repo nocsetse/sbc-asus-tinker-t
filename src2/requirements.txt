@@ -1,0 +1,16 @@
+twython
+numpy
+wheel
+numpy
+scipy
+matplotlib
+ipython
+jupyter
+pandas
+sympy
+nose
+nltk
+spacy
+mock
+paho-mqtt 
+flask

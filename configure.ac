@@ -13,7 +13,9 @@ AC_CONFIG_COMMANDS([franklin-build],
 
 AC_CONFIG_FILES([
   Makefile
+  src/Makefile
   src2/Makefile
+  src3/Makefile
 ])
 
 dnl le python

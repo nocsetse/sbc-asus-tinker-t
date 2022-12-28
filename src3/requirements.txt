@@ -1,0 +1,3 @@
+mendel-development-tool
+pycoral
+numpy==1.21.5

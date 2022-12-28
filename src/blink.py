@@ -1,3 +1,4 @@
+"""Blink the LED, works as the Mendel user. Other users need permission to RW the GPIO"""
 from periphery import GPIO
 import time
 
